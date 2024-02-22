@@ -1,0 +1,5 @@
+mod biter recycling
+    - biters drop loot like raw resources or "guts" to craft
+
+mod robo miners
+    - the drones mine raw resources

@@ -1,0 +1,1 @@
+-- require("prototypes.item_biter_guts")
